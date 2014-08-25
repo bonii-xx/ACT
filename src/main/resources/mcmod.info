@@ -1,0 +1,16 @@
+[
+{
+  "modid": "act",
+  "name": "AdminCommandsToolbox",
+  "description": "Some admin tools like pregeneration and chunk purging.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ProfMobius"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
